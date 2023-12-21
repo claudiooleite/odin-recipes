@@ -1,16 +1,19 @@
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    padding: 15px;
     background-color: rgb(252, 200, 103);
     color: rgba(1, 1, 82, 0.904);
 }
-h2 {
+h2, p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  
-
+  line-height: 20px;
 }
+
+
 div {
   display: inline-block;
+
 }
 div.recipes {
   margin: 5px;
