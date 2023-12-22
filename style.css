@@ -13,6 +13,7 @@ h2, p {
 }
 h2 {
   color: rgba(1, 1, 82, 0.904);
+  text-align: center;
 }
 p {
   color: black;
@@ -26,7 +27,7 @@ div.recipes {
   border: 1px solid #ccc;
   float: left;
   padding: 5px;
-  width: 300px;
+  width: 420px;
   height: auto;
 }
 
@@ -35,6 +36,6 @@ div.recipes:hover {
 }
 
 div.recipes img {
-  height: auto;
+  height: 300px;
   width: 100%;
 }
