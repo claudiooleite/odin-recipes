@@ -25,7 +25,9 @@ div.recipes {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 330px;
+  padding: 5px;
+  width: 300px;
+  height: auto;
 }
 
 div.recipes:hover {
@@ -33,7 +35,6 @@ div.recipes:hover {
 }
 
 div.recipes img {
+  height: auto;
   width: 100%;
-  height: 100%;
 }
-
